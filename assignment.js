@@ -1,3 +1,5 @@
+// https://github.com/baterialsbot/assignment3
+
 function kilometerToMeter(inputtedkilo){
     if(typeof(distanceInKilometer)!=="number"){
         return "Please input distance as Number";   
