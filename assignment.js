@@ -1,3 +1,4 @@
+// https://github.com/baterialsbot/assignment3
 function kilometerToMeter(inputtedkilo){
     if(typeof(inputtedkilo)!=="number"){
         return "type error!!, try again";
